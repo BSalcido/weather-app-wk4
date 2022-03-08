@@ -5,7 +5,15 @@ function App() {
   return (
     <div className="App">
       <h1>Weather App</h1>
-      <Weather />
+      <div className="container">
+        <Weather />
+      </div>
+      <footer>
+        <a href="https://github.com/BSalcido/weather-app-wk4">
+          Open-source code
+        </a>{" "}
+        by Brisa Salcido
+      </footer>
     </div>
   );
 }

@@ -37,6 +37,13 @@
   }
 }
 
+.container {
+  margin: 50px;
+  padding: 30px 70px 100px;
+  background-color: #b7cec8;
+  border-radius: 10px;
+}
+
 ul {
   list-style-type: none;
   font-size: 20px;
